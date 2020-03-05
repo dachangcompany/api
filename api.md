@@ -10,7 +10,7 @@
 
 # baseUrl
 
-* baseUrl:https://www.ccdcbk.com/unique/
+* baseUrl:https://www.cdcbk.com/unique/
 
 * 其他平台需要先进行邮件申请，并开通接口，之后才会开发程序化接口API
 
