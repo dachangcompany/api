@@ -445,7 +445,7 @@ pkcs8_rsa_private_key_1024.pem
 rsa_public_key_1024.pem
 ```
 
-2.然后，将您的public-key（也就是rsa_public_key_1024.pem）、用户名、用户uid发送到****，进行申请。
+2.然后，将您的public-key（也就是rsa_public_key_1024.pem）、用户名、用户uid发送到jiazhen@tacu.com ，进行申请。
 3.每次申请调用登录、下单、撤单等接口API权限的时候，请您使用sha256算法并通过私钥将参数签名，我在这里给出一个Javascript的实现。
 4.timestamp为最新时间
 
