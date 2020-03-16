@@ -6,11 +6,11 @@
 
 # Platform Url
 
-* platform Url:https://www.cdcbk.com
+* platform Url:https://www.tacu.com
 
 # baseUrl
 
-* baseUrl:https://www.cdcbk.com/unique/
+* baseUrl:https://www.tacu.com/unique/
 
 * 其他平台需要先进行邮件申请，并开通接口，之后才会开发程序化接口API
 
@@ -529,7 +529,7 @@ public class SignLoginDemo {
 	
 	public static void main(String[] args) {
 		// 访问url
-		String url = "https://www.cdcbk.com/unique/user/signLogin";
+		String url = "https://www.tacu.com/unique/user/signLogin";
 		// 登陆账号
 		String email = "123456@163.com";
 		// 登陆密码  详见MD5Util工具类
